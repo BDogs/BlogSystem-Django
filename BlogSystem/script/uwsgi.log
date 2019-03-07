@@ -118,3 +118,85 @@ bind(): Address already in use [core/socket.c line 769]
 [pid: 73988|app: -1|req: -1/10] 127.0.0.1 () {40 vars in 766 bytes} [Fri Mar  1 15:38:28 2019] GET /admin/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
 --- no python application found, check your startup logs for errors ---
 [pid: 73988|app: -1|req: -1/11] 127.0.0.1 () {40 vars in 766 bytes} [Fri Mar  1 15:38:30 2019] GET /admin/ => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Mar  1 15:58:30 2019] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 9.1.0 (clang-902.0.39.2) on 18 August 2018 05:36:01
+os: Darwin-18.2.0 Darwin Kernel Version 18.2.0: Thu Dec 20 20:46:53 PST 2018; root:xnu-4903.241.1~1/RELEASE_X86_64
+nodename: localhost
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/script
+writing pidfile to /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /Library/Frameworks/Python.framework/Versions/3.6/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+building mime-types dictionary from file /etc/apache2/mime.types...1003 entry found
+lock engine: OSX spinlocks
+thunder lock: enabled
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Mar  1 16:01:59 2019] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 9.1.0 (clang-902.0.39.2) on 18 August 2018 05:36:01
+os: Darwin-18.2.0 Darwin Kernel Version 18.2.0: Thu Dec 20 20:46:53 PST 2018; root:xnu-4903.241.1~1/RELEASE_X86_64
+nodename: localhost
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/script
+writing pidfile to /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /Library/Frameworks/Python.framework/Versions/3.6/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+building mime-types dictionary from file /etc/apache2/mime.types...1003 entry found
+lock engine: OSX spinlocks
+thunder lock: enabled
+probably another instance of uWSGI is running on the same address (127.0.0.1:8000).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Mar  1 16:06:45 2019] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 9.1.0 (clang-902.0.39.2) on 18 August 2018 05:36:01
+os: Darwin-18.2.0 Darwin Kernel Version 18.2.0: Thu Dec 20 20:46:53 PST 2018; root:xnu-4903.241.1~1/RELEASE_X86_64
+nodename: localhost
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/script
+writing pidfile to /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /Library/Frameworks/Python.framework/Versions/3.6/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 1418
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+building mime-types dictionary from file /etc/apache2/mime.types...1003 entry found
+lock engine: OSX spinlocks
+thunder lock: enabled
+uWSGI http bound on 127.0.0.1:8000 fd 3
+uwsgi socket 0 bound to UNIX address /Users/zhugeyou/Desktop/MyGitHub/BlogSystem-Django/BlogSystem/script/uwsgi.sock fd 6
+Python version: 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 03:03:55)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f99ac006200
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 486480 bytes (475 KB) for 5 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'BlogSystem'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 22062)
+spawned uWSGI worker 1 (pid: 22063, cores: 1)
+spawned uWSGI worker 2 (pid: 22064, cores: 1)
+spawned uWSGI worker 3 (pid: 22065, cores: 1)
+spawned uWSGI worker 4 (pid: 22066, cores: 1)
+spawned uWSGI worker 5 (pid: 22067, cores: 1)
+spawned uWSGI http 1 (pid: 22068)
+--- no python application found, check your startup logs for errors ---
+[pid: 22064|app: -1|req: -1/1] 127.0.0.1 () {38 vars in 723 bytes} [Fri Mar  1 16:30:56 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 22064|app: -1|req: -1/2] 127.0.0.1 () {40 vars in 754 bytes} [Fri Mar  1 16:57:15 2019] GET / => generated 21 bytes in 5 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
