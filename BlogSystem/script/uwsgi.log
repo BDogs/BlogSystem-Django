@@ -200,3 +200,83 @@ spawned uWSGI http 1 (pid: 22068)
 [pid: 22064|app: -1|req: -1/1] 127.0.0.1 () {38 vars in 723 bytes} [Fri Mar  1 16:30:56 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
 --- no python application found, check your startup logs for errors ---
 [pid: 22064|app: -1|req: -1/2] 127.0.0.1 () {40 vars in 754 bytes} [Fri Mar  1 16:57:15 2019] GET / => generated 21 bytes in 5 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Thu Mar  7 17:06:46 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+!!! no /etc/mime.types file found !!!
+lock engine: pthread robust mutexes
+thunder lock: enabled
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 11:13:33 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to /root/BobWorks/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+!!! no /etc/mime.types file found !!!
+lock engine: pthread robust mutexes
+thunder lock: enabled
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 11:40:38 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to /root/BobWorks/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+!!! no /etc/mime.types file found !!!
+lock engine: pthread robust mutexes
+thunder lock: enabled
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 13:40:21 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to /root/BobWorks/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+!!! no /etc/mime.types file found !!!
+lock engine: pthread robust mutexes
+thunder lock: enabled
+bind(): Cannot assign requested address [core/socket.c line 769]
