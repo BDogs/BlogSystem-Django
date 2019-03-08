@@ -280,3 +280,494 @@ detected max file descriptor number: 65535
 lock engine: pthread robust mutexes
 thunder lock: enabled
 bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 14:30:21 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to /root/BobWorks/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+!!! no /etc/mime.types file found !!!
+lock engine: pthread robust mutexes
+thunder lock: enabled
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 14:46:52 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to /root/BobWorks/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+!!! no /etc/mime.types file found !!!
+lock engine: pthread robust mutexes
+thunder lock: enabled
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 14:54:50 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to /root/BobWorks/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+!!! no /etc/mime.types file found !!!
+lock engine: pthread robust mutexes
+thunder lock: enabled
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 14:56:14 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to /root/BobWorks/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+!!! no /etc/mime.types file found !!!
+lock engine: pthread robust mutexes
+thunder lock: enabled
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 15:03:02 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to /root/BobWorks/BlogSystem-Django/BlogSystem/script/uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+building mime-types dictionary from file /etc/mime.types...1060 entry found
+lock engine: pthread robust mutexes
+thunder lock: enabled
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 15:10:09 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+building mime-types dictionary from file /etc/mime.types...1060 entry found
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 15:11:44 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+building mime-types dictionary from file /etc/mime.types...1060 entry found
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+bind(): Cannot assign requested address [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 15:15:36 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+building mime-types dictionary from file /etc/mime.types...1060 entry found
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 172.17.192.219:8099 fd 4
+spawned uWSGI http 1 (pid: 5535)
+uwsgi socket 0 bound to TCP address 127.0.0.1:37506 (port auto-assigned) fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.2 (default, Jan  8 2019, 15:26:27)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+Python main interpreter initialized at 0x10ae7c0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'BlogSystem'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+failed to open python file BlogSystem/wsgi.py
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5534, cores: 2)
+spawned uWSGI worker 2 (pid: 5536, cores: 2)
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 15:23:46 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+building mime-types dictionary from file /etc/mime.types...1060 entry found
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 172.17.192.219:8099 fd 4
+spawned uWSGI http 1 (pid: 5575)
+uwsgi socket 0 bound to TCP address 127.0.0.1:33182 (port auto-assigned) fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.2 (default, Jan  8 2019, 15:26:27)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+Python main interpreter initialized at 0x11997c0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'BlogSystem'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+failed to open python file BlogSystem/wsgi.py
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5574, cores: 2)
+spawned uWSGI worker 2 (pid: 5576, cores: 2)
+--- no python application found, check your startup logs for errors ---
+[pid: 5574|app: -1|req: -1/1] 113.208.118.34 () {38 vars in 686 bytes} [Fri Mar  8 15:25:26 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5576|app: -1|req: -1/2] 113.208.118.34 () {40 vars in 692 bytes} [Fri Mar  8 15:25:26 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5574|app: -1|req: -1/3] 113.208.118.34 () {36 vars in 665 bytes} [Fri Mar  8 15:25:39 2019] GET /index => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5576|app: -1|req: -1/4] 113.208.118.34 () {36 vars in 644 bytes} [Fri Mar  8 15:25:39 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5574|app: -1|req: -1/5] 113.208.118.34 () {36 vars in 639 bytes} [Fri Mar  8 15:33:50 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5576|app: -1|req: -1/6] 113.208.118.34 () {36 vars in 623 bytes} [Fri Mar  8 15:33:50 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 15:37:58 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+building mime-types dictionary from file /etc/mime.types...1060 entry found
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 172.17.192.219:8099 fd 4
+spawned uWSGI http 1 (pid: 5631)
+uwsgi socket 0 bound to TCP address 127.0.0.1:37448 (port auto-assigned) fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.2 (default, Jan  8 2019, 15:26:27)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+Python main interpreter initialized at 0xd42760
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'BlogSystem'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+failed to open python file BlogSystem/wsgi.py
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5630, cores: 2)
+spawned uWSGI worker 2 (pid: 5632, cores: 2)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/1] 113.208.118.34 () {38 vars in 669 bytes} [Fri Mar  8 15:38:09 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/2] 113.208.118.34 () {40 vars in 675 bytes} [Fri Mar  8 15:38:09 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/3] 113.208.118.34 () {38 vars in 669 bytes} [Fri Mar  8 15:38:09 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/4] 113.208.118.34 () {40 vars in 675 bytes} [Fri Mar  8 15:38:09 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/5] 113.208.118.34 () {38 vars in 669 bytes} [Fri Mar  8 15:38:11 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/6] 113.208.118.34 () {36 vars in 622 bytes} [Fri Mar  8 15:38:11 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/7] 113.208.118.34 () {38 vars in 669 bytes} [Fri Mar  8 15:38:14 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/8] 113.208.118.34 () {40 vars in 675 bytes} [Fri Mar  8 15:38:14 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/9] 113.208.118.34 () {38 vars in 669 bytes} [Fri Mar  8 15:38:15 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/10] 113.208.118.34 () {40 vars in 675 bytes} [Fri Mar  8 15:38:15 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/11] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:16 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/12] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:16 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/13] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:16 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/14] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:16 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/15] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:17 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/16] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:17 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/17] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:17 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/18] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:17 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/19] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:18 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/20] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:18 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/21] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:19 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5632|app: -1|req: -1/22] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:19 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/23] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:21 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/24] 113.208.118.34 () {36 vars in 623 bytes} [Fri Mar  8 15:38:21 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/25] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:27 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/26] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:27 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/27] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:27 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/28] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:27 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/29] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:28 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/30] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:28 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/31] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:28 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/32] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:28 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/33] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:29 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/34] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:29 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/35] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:29 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/36] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:29 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/37] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:29 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/38] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:29 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/39] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:30 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/40] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:30 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/41] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:30 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/42] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:30 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/43] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:31 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/44] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:31 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/45] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:31 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/46] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:31 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/47] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:38:32 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5630|app: -1|req: -1/48] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:38:32 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 15:40:41 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+building mime-types dictionary from file /etc/mime.types...1060 entry found
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 172.17.192.219:8099 fd 4
+spawned uWSGI http 1 (pid: 5653)
+uwsgi socket 0 bound to TCP address 127.0.0.1:41297 (port auto-assigned) fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.2 (default, Jan  8 2019, 15:26:27)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+Python main interpreter initialized at 0x149b730
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+failed to open python file BlogSystem/wsgi.py
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5652, cores: 2)
+spawned uWSGI worker 2 (pid: 5654, cores: 2)
+--- no python application found, check your startup logs for errors ---
+[pid: 5654|app: -1|req: -1/1] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:40:44 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5652|app: -1|req: -1/2] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:40:44 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5654|app: -1|req: -1/3] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:40:45 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5652|app: -1|req: -1/4] 113.208.118.34 () {40 vars in 676 bytes} [Fri Mar  8 15:40:45 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5654|app: -1|req: -1/5] 113.208.118.34 () {38 vars in 670 bytes} [Fri Mar  8 15:40:46 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5652|app: -1|req: -1/6] 113.208.118.34 () {36 vars in 623 bytes} [Fri Mar  8 15:40:46 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Fri Mar  8 16:10:10 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 01 March 2019 07:51:51
+os: Linux-3.10.0-693.2.2.el7.x86_64 #1 SMP Tue Sep 12 22:26:13 UTC 2017
+nodename: iz2zeaon3obrcq41c1o7wlz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/BobWorks/BlogSystem-Django/BlogSystem/script
+writing pidfile to uwsgi.pid
+detected binary path: /usr/local/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /root/BobWorks/BlogSystem-Django/BlogSystem/BlogSystem
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 3895
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+building mime-types dictionary from file /etc/mime.types...1060 entry found
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 172.17.192.219:8099 fd 4
+spawned uWSGI http 1 (pid: 5995)
+uwsgi socket 0 bound to TCP address 127.0.0.1:38018 (port auto-assigned) fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.7.2 (default, Jan  8 2019, 15:26:27)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+Python main interpreter initialized at 0xe3c760
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 166752 bytes (162 KB) for 4 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'BlogSystem'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+failed to open python file BlogSystem/wsgi.py
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5994, cores: 2)
+spawned uWSGI worker 2 (pid: 5996, cores: 2)
+--- no python application found, check your startup logs for errors ---
+[pid: 5996|app: -1|req: -1/1] 113.208.118.34 () {36 vars in 639 bytes} [Fri Mar  8 16:10:36 2019] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 5994|app: -1|req: -1/2] 113.208.118.34 () {36 vars in 623 bytes} [Fri Mar  8 16:10:36 2019] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
